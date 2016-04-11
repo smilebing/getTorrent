@@ -2,7 +2,7 @@
 import  re
 import  requests
 
-url='http://yu.dk1024.net/bbs/thread-174653-1-1.html'
+url=''
 whole_page=requests.get(url)
 whole_page.encoding='utf-8'
 
