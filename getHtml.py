@@ -3,7 +3,7 @@ import requests
 import re
 import  json
 
-left_url='http://yu.pk1024.info/bbs/'
+left_url=''
 
 downUrl="http://down.happytogether2015.com/freeone/down.php"
 downHeader={'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
